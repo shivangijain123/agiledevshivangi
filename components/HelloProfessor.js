@@ -3,7 +3,7 @@ import styles from '../styles/HelloProfessor.module.css';
 function HelloProfessor() {
     return (
         <div className={styles['hello-professor']}>
-            Hello Professor
+            <h1>Hello Professor</h1>
         </div>
     );
 }
