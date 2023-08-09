@@ -1,7 +1,11 @@
-import '../styles/global.css';
+import HelloProfessor from '../components/HelloProfessor';
 
-function HomePage() {
-    return <div>Hello Professor!</div>;
+export default function Home() {
+    return (
+        <div>
+            <center>
+                <HelloProfessor />
+            </center>
+        </div>
+    );
 }
-
-export default HomePage;
