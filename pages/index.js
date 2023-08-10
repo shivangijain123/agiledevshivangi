@@ -6,7 +6,7 @@ export default function Home() {
         <div>
             <Head>
                 <title>Hello Professor</title>
-                <meta name="description" content="A Playwright demo page." />
+                <meta name="Hello Professor" content="A Playwright demo page." />
                 {/* Add other meta tags or link tags as needed */}
             </Head>
             <center>
